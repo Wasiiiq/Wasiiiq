@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Wasiq Raheem
+- 👋 Hi, I’m @Wasiq Raheem.
 - 👀 I’m interested in Administration job.
 - 🌱 I’m currently learning Jira and github
 - 💞️ I’m looking to collaborate on different projects.

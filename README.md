@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Wasiq Raheem.
+- 👋 Hi, I’m @Wasiq Raheem Chughtai.
+
+
 - 👀 I’m interested in HR STUFF.
 - 🌱 I’m currently learning HR stuff and github
 - 💞️ I’m looking to collaborate on different projects.
